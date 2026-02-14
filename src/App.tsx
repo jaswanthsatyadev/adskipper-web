@@ -22,12 +22,10 @@ import {
   X,
   Star,
   Users,
-  Clock,
   Award,
   CheckCircle,
   ArrowRight,
   Sparkles,
-  Crown,
   Gem,
 } from "lucide-react";
 import PrivacyPolicy from "./PrivacyPolicy";
